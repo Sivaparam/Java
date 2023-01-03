@@ -1,3 +1,4 @@
+package javacourse;
 public class AddTwoNum {
     int sum(int x, int y){
         int result = x+y;
